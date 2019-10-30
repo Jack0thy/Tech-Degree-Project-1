@@ -1,2 +1,2 @@
-# Tech-Degree-Project-1
+Techdegree Project 3
  My profile page
